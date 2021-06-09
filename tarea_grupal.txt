@@ -1,2 +1,7 @@
 hola esto es un cambio lol
+<<<<<<< HEAD
 soy gaby jijiji
+=======
+
+holaaa
+>>>>>>> d23ff23682b5f7fa6349d4c4d90c7adf7bc4b768
